@@ -1,3 +1,14 @@
+<?php//empieza el codigo php*/
+
+$pagueTitle 
+
+
+
+?> //*termina el codigo php*/*
+
+
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
