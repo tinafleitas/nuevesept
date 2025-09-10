@@ -1,13 +1,8 @@
 <?php//empieza el codigo php*/
 
-$pagueTitle 
+$pagueTitle = "Programacion 2";// son variables
 
-
-
-?> //*termina el codigo php*/*
-
-
-
+?>//termina el codigo php
 
 <!DOCTYPE html>
 <html lang="en">
@@ -15,6 +10,12 @@ $pagueTitle
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Programacion 2</title>
+   //<title>
+     <?php 
+     echo $pagueTitle; //imprime
+        ?>
+ 
+    //</title>//cierra title
 </head>
 <body>
     <h1>Holaaaaa</h1>
